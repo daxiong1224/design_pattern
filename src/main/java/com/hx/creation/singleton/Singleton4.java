@@ -1,7 +1,7 @@
 package com.hx.creation.singleton;
 
 /**
- * 枚举方式实现单例
+ * 单例模式-枚举方式实现
  */
 public enum Singleton4 {
 

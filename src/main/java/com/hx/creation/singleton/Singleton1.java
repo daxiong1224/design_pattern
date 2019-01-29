@@ -1,7 +1,7 @@
 package com.hx.creation.singleton;
 
 /**
- * 恶汉式
+ * 单例模式-恶汉式
  *
  */
 public class Singleton1 {

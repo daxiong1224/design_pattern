@@ -1,7 +1,7 @@
 package com.hx.creation.singleton;
 
 /**
- * 静态内部类的实现
+ * 单例模式-静态内部类的实现
  * 好处：延迟加载，由JVM提供对线程安全的支持
  */
 public class Singleton3 {

@@ -1,7 +1,7 @@
 package com.hx.creation.singleton;
 
 /**
- * 懒汉式
+ * 单例模式-懒汉式
  */
 public class Singleton2 {
     //私有化构造方法，无法通过外部直接创建对象

@@ -13,7 +13,4 @@ public class SimpleFactory {
         return null;
     }
 
-    public static void main(String[] args) {
-        //todo 待测试
-    }
 }
